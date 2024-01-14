@@ -144,8 +144,8 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://longspeakadvisory.com/gips-compliance/">a GIPS compliance firm</a>,{' '} and in{' '}
+              Fast-forward to today, and I’ve had the privilege of working with a{' '}
+              <a href="https://longspeakadvisory.com/gips-compliance/"> GIPS compliance firm</a>,{' '} and in{' '}
               <a href="https://www.cbre.com/offices/corporate/dallas-ft-worth#overview"> commercial real estate</a>.
               My main focus these days is studying Business Analytics at <a href="https://www.unt.edu/academics/programs/business-analytics-degree.html">UNT</a> 
               , with graduation in Winter 2024.
