@@ -156,7 +156,7 @@ const About = () => {
               <a href="https://github.com/jeiskamp">
                 projects
               </a>{' '}
-              as part of my journey into combining my developer and business intellegince skills. 
+              as part of my journey into combining my developer and business intelligence skills. 
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
