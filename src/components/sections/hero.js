@@ -61,12 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Justin Eiskamp.</h2>;
-  const three = <h3 className="big-heading">I love Python & Data.</h3>;
+  const three = <h3 className="big-heading">I enjoy Python & Swift.</h3>;
   const four = (
     <>
       <p>
-        I’m a software developer specialized in automating data preprocessing. Currently, I’m focused on building exceptional tools
-        for{' '}
+        I’m a software developer specialized in automating data preprocessing. Currently, I’m
+        focused on building exceptional tools for{' '}
         <a href="https://longspeakadvisory.com/" target="_blank" rel="noreferrer">
           Longs Peak Advisory Services
         </a>
