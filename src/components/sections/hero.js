@@ -61,21 +61,23 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Justin Eiskamp.</h2>;
-  const three = <h3 className="big-heading">I enjoy Python & Swift.</h3>;
-  const four = (
+  const three = (
     <>
       <p>
-        I’m a software developer specialized in automating data preprocessing. Currently, I’m
-        focused on building exceptional tools for{' '}
-        <a href="https://longspeakadvisory.com/" target="_blank" rel="noreferrer">
-          Longs Peak Advisory Services
+        I’m just a normal dude with a hard-drive for software development. Currently, I’m focused on
+        building applications for{' '}
+        <a
+          href="https://apps.apple.com/us/developer/justin-eiskamp/id1732130016"
+          target="_blank"
+          rel="noreferrer">
+          iOS and macOS.
         </a>
         .
       </p>
     </>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, three];
 
   return (
     <StyledHeroSection>

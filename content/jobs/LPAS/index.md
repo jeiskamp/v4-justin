@@ -1,9 +1,9 @@
 ---
 date: '2021-02-14'
-title: 'Software Developer' 
+title: 'Software Developer'
 company: 'LPAS'
 location: 'Longmont, CO'
-range: 'February 2021 - Present'
+range: 'February 2021 - April 2024'
 url: 'https://longspeakadvisory.com/gips-compliance/'
 ---
 

@@ -135,28 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Justin and I enjoy creating things others can find useful or at 
-              the very least, interesting. My interest in tech sparked at young age when iPhones still 
-              felt like new devices and mobile apps were the rage. When I was 14 I created my first 
-              mobile game (a clone of "The World's Hardest Game") using Stencyl. I've held
-              a passion for coding ever since.
-              
+              My journey into the world of technology began at the age of 14 when I created my first
+              mobile game, a clone of -The World's Hardest Game-, using Stencyl. This early foray
+              into coding ignited a passion that has driven me ever since. Over the years, I have
+              indulged in various creative projects, such as developing PartyCam, a unique webcam
+              application that breaks down images into cubes and syncs with music to create an
+              immersive vibe. One of my most recent endeavors is{' '}
+              <a href="https://longspeakadvisory.com/gips-compliance/"> DoJunkie,</a>a Daily To-Do
+              list app born out of my love for organization and productivity.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working with a{' '}
-              <a href="https://longspeakadvisory.com/gips-compliance/"> GIPS compliance firm</a>,{' '} and in{' '}
-              <a href="https://www.cbre.com/offices/corporate/dallas-ft-worth#overview"> commercial real estate</a>.
-              My main focus these days is studying Business Analytics at <a href="https://www.unt.edu/academics/programs/business-analytics-degree.html">UNT</a> 
-              , with graduation in Winter 2024.
+              For the past four years, I have been deeply engaged in studying business analytics,
+              and I am set to graduate in Winter 2024. This academic pursuit has complemented my
+              technical skills, allowing me to appreciate the visual art of sifting through data to
+              extract valuable insights.
             </p>
 
             <p>
-              Recently I've been getting into exploratory data analysis and will be posting my {' '}
-              <a href="https://github.com/jeiskamp">
-                projects
-              </a>{' '}
-              as part of my journey into combining my developer and business intelligence skills. 
+              As I look forward to the opportunities that lie ahead post-graduation, I remain
+              passionate about living in our technical world. My goal is to make a meaningful
+              impact, no matter the scale, and to create technology that people genuinely enjoy and
+              find useful.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
