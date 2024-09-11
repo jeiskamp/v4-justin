@@ -141,7 +141,7 @@ const About = () => {
               indulged in various creative projects, such as developing PartyCam, a unique webcam
               application that breaks down images into cubes and syncs with music to create an
               immersive vibe. One of my most recent endeavors is{' '}
-              <a href="https://longspeakadvisory.com/gips-compliance/"> DoJunkie</a>, a Daily To-Do
+              <a href="https://longspeakadvisory.com/gips-compliance/"> DoJunkie</a> , a Daily To-Do
               list app born out of my love for organization and productivity.
             </p>
 
