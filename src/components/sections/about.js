@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'NumPy', 'Excel', 'Pandas', 'SQL', 'Flask'];
+  const skills = ['Python', 'NumPy', 'Excel', 'Swift', 'SQL', 'Tableau'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,15 +141,13 @@ const About = () => {
               indulged in various creative projects, such as developing PartyCam, a unique webcam
               application that breaks down images into cubes and syncs with music to create an
               immersive vibe. One of my most recent endeavors is{' '}
-              <a href="https://longspeakadvisory.com/gips-compliance/"> DoJunkie</a> , a Daily To-Do
-              list app born out of my love for organization and productivity.
+              <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/dojunkie-daily-list-tasks/id6505129048&ved=2ahUKEwiV-IqT_v-MAxVKDDQIHWl0GJIQFnoECAkQAQ&usg=AOvVaw35HRZ-rAJJR9q7oIXT4GrH"> DoJunkie</a>, 
+              a Daily To-Do list app born out of my love for organization and productivity.
             </p>
 
             <p>
-              For the past four years, I have been deeply engaged in studying business analytics,
-              and I am set to graduate in Winter 2024. This academic pursuit has complemented my
-              technical skills, allowing me to appreciate the visual art of sifting through data to
-              extract valuable insights.
+              The past four years, I have been deeply engaged in studying Business Analytics,
+              and graduated December 2024 as cum laude.
             </p>
 
             <p>

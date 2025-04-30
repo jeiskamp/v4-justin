@@ -64,13 +64,12 @@ const Hero = () => {
   const three = (
     <>
       <p>
-        I’m just a normal dude with a hard-drive for software development. Currently, I’m focused on
-        building applications for{' '}
+        I’m just a normal dude with a hard-drive for software development. Lately, I've been working on apps for{' '}
         <a
           href="https://apps.apple.com/us/developer/justin-eiskamp/id1732130016"
           target="_blank"
           rel="noreferrer">
-          iOS and macOS.
+          iOS and macOS
         </a>
         .
       </p>

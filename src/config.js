@@ -6,13 +6,13 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/jeiskamp',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/justineiskamp',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/justineiskamp',
+    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://www.threads.com/@justineiskamp',
     },
     {
       name: 'Linkedin',

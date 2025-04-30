@@ -1,13 +1,15 @@
 ---
 date: '2021-02-14'
-title: 'Software Developer'
+title: 'Associate Data Analyst'
 company: 'LPAS'
 location: 'Longmont, CO'
-range: 'February 2021 - April 2024'
+range: 'February 2021 - May 2024'
 url: 'https://longspeakadvisory.com/gips-compliance/'
 ---
 
-- Spearheaded a Python-based automation toolkit for data preproccessing and data aggregation
-- Developed over 15 software products used by the Longs Peak Advisory associates to assist with GIPS compliance verification efforts
-- Supported the associates frontend user interface with basic HTML CSS and utilized Python, Flask, SSH, AWS EC2, etc. to create the toolkits backend
-- Applied Agile development methodologies with associates to ensure precise final product releases
+- Developed 17+ Python tools automating GIPS client data extraction, transformation, and loading workflows
+- Applied Agile methodologies to iteratively develop, test, and refine tools based on client and team feedback
+- Aggregated raw client datasets to support accurate, efficient, and compliant performance reporting processes
+- Automated entire workflows, saving billable hours and improving overall operational efficiency company-wide
+- Reduced internal and client costs through scalable, streamlined data verification and reporting processes
+- Managed concurrent projects, aligning deliverables with client deadlines and internal associate support needs
