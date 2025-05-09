@@ -64,7 +64,7 @@ const Hero = () => {
   const three = (
     <>
       <p>
-        I’m just a normal dude with a hard-drive for software development. Lately, I've been working on apps for{' '}
+        I’m just a normal dude with a hard-drive for analytics and programming. Lately, I've been working on apps for{' '}
         <a
           href="https://apps.apple.com/us/developer/justin-eiskamp/id1732130016"
           target="_blank"
